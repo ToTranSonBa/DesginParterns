@@ -6,6 +6,7 @@
     <Project Path="CreationalDesignPatterns/SingletonDesignPattern/SingletonDesignPattern.csproj" Id="6597b112-0d4b-4aef-bcd0-27adc2f3ff49" />
   </Folder>
   <Folder Name="/Solution Items/">
+    <File Path="CheckList.md" />
     <File Path="Readme.md" />
   </Folder>
 </Solution>
