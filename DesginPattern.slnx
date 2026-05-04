@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/BehavioralDesginPatterns/">
+    <Project Path="BehavioralDesginParterns/MediatorPattern/MediatorPattern.csproj" Id="6ea71b6b-7042-4002-8959-ed87a2126f8b" />
     <Project Path="BehavioralDesginParterns/StrategyDesignPattern/StrategyDesignPattern.csproj" Id="8302fb49-c73a-45de-82b1-fbc6a9cf228c" />
   </Folder>
   <Folder Name="/CreationalDesignPatterns/">
