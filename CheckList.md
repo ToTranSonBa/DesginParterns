@@ -5,6 +5,8 @@
 ### Creational Design Patterns
  - Singleton
 ### Structural Design Patterns
+### 3. Behavioral Patterns (Hành vi)
+ - Mediator
  - Strategy
 
 ## To Do
@@ -43,8 +45,6 @@
  - State
 
  - Template Method
-
- - Mediator
 
  - Chain of Responsibility
 
