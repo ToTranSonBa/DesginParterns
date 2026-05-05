@@ -6,6 +6,7 @@
  - Singleton
 ### Structural Design Patterns
 ### 3. Behavioral Patterns (Hành vi)
+ - Command
  - Mediator
  - Strategy
 
@@ -39,8 +40,6 @@
 ### 3. Behavioral Patterns (Hành vi)
 
  - Observer
-
- - Command
 
  - State
 
