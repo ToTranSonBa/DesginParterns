@@ -4,6 +4,10 @@
 
 ### Creational Design Patterns
  - Singleton
+
+ - Builder
+
+
 ### Structural Design Patterns
 ### 3. Behavioral Patterns (Hành vi)
  - Command
@@ -16,8 +20,6 @@
  - Factory Method
 
  - Abstract Factory
-
- - Builder
 
  - Prototype
 
