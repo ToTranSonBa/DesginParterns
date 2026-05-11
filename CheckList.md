@@ -4,6 +4,7 @@
 
 ### Creational Design Patterns
  - Singleton
+ - Prototype
 
  - Builder
 
@@ -22,7 +23,6 @@
 
  - Abstract Factory
 
- - Prototype
 
 ### 2. Structural (cấu trúc)
 
