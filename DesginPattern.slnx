@@ -18,6 +18,7 @@
   </Folder>
   <Folder Name="/StructuralDesignPatterns/">
     <Project Path="StructuralDesignPatterns/Adapter/Adapter.csproj" Id="fc661b18-9274-42d0-bd2c-b30e56a9ebab" />
+    <Project Path="StructuralDesignPatterns/Composite/Composite.csproj" Id="83a45cee-4e06-4f9e-9f55-81cc0de6b6d6" />
     <Project Path="StructuralDesignPatterns/Decorator/Decorator.csproj" Id="cfa447ba-d149-4692-9eee-574bb7c6427d" />
     <Project Path="StructuralDesignPatterns/Facade/Facade.csproj" Id="0084ac09-69cb-4b5f-99d1-fced2c943a27" />
   </Folder>

@@ -16,6 +16,7 @@
 ### Structural Design Patterns
  - Adapter
  - Decorator
+ - Facade
 
 ### Behavioral Patterns (Hành vi)
  - Observer
@@ -31,7 +32,6 @@
 
 ### 2. Structural (cấu trúc)
 
- - Facade
 
  - Composite
 
