@@ -15,7 +15,7 @@
 
 ### Structural Design Patterns
  - Adapter
-
+ - Decorator
 ### Behavioral Patterns (Hành vi)
  - Observer
  - Command
@@ -29,8 +29,6 @@
 
 
 ### 2. Structural (cấu trúc)
-
- - Adapter
 
  - Decorator
 

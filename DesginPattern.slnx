@@ -18,5 +18,6 @@
   </Folder>
   <Folder Name="/StructuralDesignPatterns/">
     <Project Path="StructuralDesignPatterns/Adapter/Adapter.csproj" Id="fc661b18-9274-42d0-bd2c-b30e56a9ebab" />
+    <Project Path="StructuralDesignPatterns/Decorator/Decorator.csproj" Id="cfa447ba-d149-4692-9eee-574bb7c6427d" />
   </Folder>
 </Solution>
