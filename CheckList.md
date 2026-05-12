@@ -42,7 +42,7 @@
 
  - 
 
- - Flyweight
+ - 
 
 ### 3. Behavioral Patterns (Hành vi)
 
