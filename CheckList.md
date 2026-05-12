@@ -17,6 +17,9 @@
  - Adapter
  - Decorator
  - Facade
+ - Composite
+
+
 
 ### Behavioral Patterns (Hành vi)
  - Observer
@@ -33,9 +36,8 @@
 ### 2. Structural (cấu trúc)
 
 
- - Composite
 
- - Proxy
+
 
  - Bridge
 
