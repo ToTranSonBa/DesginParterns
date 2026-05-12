@@ -7,6 +7,7 @@
   <Folder Name="/CreationalDesignPatterns/">
     <Project Path="BehavioralDesginParterns/ObserverPattern/ObserverPattern.csproj" Id="7bbf6cbd-25c1-4dbd-a76e-05a788f142da" />
     <Project Path="CreationalDesignPatterns/BuilderPattern/BuilderPattern.csproj" Id="0ec67ae2-15e2-4dc3-81fc-48679ea596d1" />
+    <Project Path="CreationalDesignPatterns/FactoryMethod/FactoryMethod.csproj" />
     <Project Path="CreationalDesignPatterns/PrototypePattern/PrototypePattern.csproj" />
     <Project Path="CreationalDesignPatterns/SingletonDesignPattern/SingletonDesignPattern.csproj" Id="6597b112-0d4b-4aef-bcd0-27adc2f3ff49" />
   </Folder>

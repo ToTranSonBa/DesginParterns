@@ -8,6 +8,9 @@
 
  - Builder
 
+ - Factory Method
+
+ - Abstract Factory
 
 ### Structural Design Patterns
 ### 3. Behavioral Patterns (Hành vi)
@@ -19,9 +22,7 @@
 ## To Do
 
 ### 1. Creational (tạo đối tượng) 
- - Factory Method
 
- - Abstract Factory
 
 
 ### 2. Structural (cấu trúc)
