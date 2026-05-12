@@ -18,7 +18,8 @@
  - Decorator
  - Facade
  - Composite
-
+ - Proxy
+ - Bridge
 
 
 ### Behavioral Patterns (Hành vi)
@@ -39,7 +40,7 @@
 
 
 
- - Bridge
+ - 
 
  - Flyweight
 
