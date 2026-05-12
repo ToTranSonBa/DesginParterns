@@ -6,6 +6,7 @@
   </Folder>
   <Folder Name="/CreationalDesignPatterns/">
     <Project Path="BehavioralDesginParterns/ObserverPattern/ObserverPattern.csproj" Id="7bbf6cbd-25c1-4dbd-a76e-05a788f142da" />
+    <Project Path="CreationalDesignPatterns/AbstractFactory/AbstractFactory.csproj" Id="26bbf3c1-2ccb-4887-9ec1-c7aacd59834f" />
     <Project Path="CreationalDesignPatterns/BuilderPattern/BuilderPattern.csproj" Id="0ec67ae2-15e2-4dc3-81fc-48679ea596d1" />
     <Project Path="CreationalDesignPatterns/FactoryMethod/FactoryMethod.csproj" />
     <Project Path="CreationalDesignPatterns/PrototypePattern/PrototypePattern.csproj" />
