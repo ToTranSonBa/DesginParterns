@@ -4,6 +4,7 @@
 
 ### Creational Design Patterns
  - Singleton
+
  - Prototype
 
  - Builder
@@ -13,7 +14,9 @@
  - Abstract Factory
 
 ### Structural Design Patterns
-### 3. Behavioral Patterns (Hành vi)
+ - Adapter
+
+### Behavioral Patterns (Hành vi)
  - Observer
  - Command
  - Mediator

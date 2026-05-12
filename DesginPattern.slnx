@@ -16,4 +16,7 @@
     <File Path="CheckList.md" />
     <File Path="Readme.md" />
   </Folder>
+  <Folder Name="/StructuralDesignPatterns/">
+    <Project Path="StructuralDesignPatterns/Adapter/Adapter.csproj" Id="fc661b18-9274-42d0-bd2c-b30e56a9ebab" />
+  </Folder>
 </Solution>
