@@ -32,19 +32,6 @@
  - Chain of Responsibility
  
  - Iterator
-
-
-
-
-
-
-## To Do
-
-### 3. Behavioral Patterns (Hành vi)
-
-
-
-
  - Memento
-
  - Visitor
+
