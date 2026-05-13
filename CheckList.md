@@ -29,9 +29,9 @@
  - Strategy
  - State
  - Template Method
-
-
-
+ - Chain of Responsibility
+ 
+ - Iterator
 
 
 
@@ -44,11 +44,6 @@
 
 
 
-
-
- - Chain of Responsibility
-
- - Iterator
 
  - Memento
 
