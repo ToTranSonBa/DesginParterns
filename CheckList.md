@@ -27,15 +27,24 @@
  - Command
  - Mediator
  - Strategy
+ - State
+ - Template Method
+
+
+
+
+
+
+
+
 
 ## To Do
 
 ### 3. Behavioral Patterns (Hành vi)
 
 
- - State
 
- - Template Method
+
 
  - Chain of Responsibility
 
