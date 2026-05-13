@@ -30,20 +30,6 @@
 
 ## To Do
 
-### 1. Creational (tạo đối tượng) 
-
-
-
-### 2. Structural (cấu trúc)
-
-
-
-
-
- - 
-
- - 
-
 ### 3. Behavioral Patterns (Hành vi)
 
 

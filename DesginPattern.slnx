@@ -2,6 +2,7 @@
   <Folder Name="/BehavioralDesginPatterns/">
     <Project Path="BehavioralDesginParterns/CommandPattern/CommandPattern.csproj" Id="dfb10d9b-b2ee-4422-b99f-c065a6c9e65f" />
     <Project Path="BehavioralDesginParterns/MediatorPattern/MediatorPattern.csproj" Id="6ea71b6b-7042-4002-8959-ed87a2126f8b" />
+    <Project Path="BehavioralDesginParterns/State/State.csproj" Id="8179fdd6-d099-445e-aabf-31d763aff47c" />
     <Project Path="BehavioralDesginParterns/StrategyDesignPattern/StrategyDesignPattern.csproj" Id="8302fb49-c73a-45de-82b1-fbc6a9cf228c" />
   </Folder>
   <Folder Name="/CreationalDesignPatterns/">
